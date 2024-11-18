@@ -72,7 +72,9 @@ Hospital Management System (HMS) is a Java-based console application developed f
 ### Pharmacist
 - ✅ Profile Management
 - ✅ Secure Authentication
+- ✅ Appointment Record Monitoring
 - ✅ Medication Management
+- ✅ Prescription Status Update
 - ✅ Replenishment Requests
 - ✅ Inbox
 
